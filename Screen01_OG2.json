@@ -1,0 +1,22 @@
+{
+  "settingsReloadIntervalMinutes": 1,
+  "fullscreen": true,
+  "autoStart": true,
+  "websites" : [
+    {
+      "url" : "https://app.klipfolio.com/?kiosk=true",
+      "duration" : 15,
+      "tabReloadIntervalSeconds": 60
+    },
+    {
+      "url" : "https://insights.newrelic.com/accounts/2073911/dashboards/700351?kiosk=true",
+      "duration" : 15,
+      "tabReloadIntervalSeconds": 60
+    },
+    {
+      "url" : "https://sevensenders.atlassian.net/projects/INC/incidents/open",
+      "duration" : 15,
+      "tabReloadIntervalSeconds": 60
+    }
+  ]
+}
