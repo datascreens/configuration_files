@@ -6,15 +6,20 @@ Tab Rotate requires the following format:
 
 {
   // sets Interval in which settings are being reloaded (including the configuration file)
+  
   "settingsReloadIntervalMinutes": <insert interval here>,
   
-  // enables full screen mode
+  // enables full screen mode. recommendation: true
+  
   "fullscreen": <insert 'true' or 'false' here>,
   
-  // tells Tab Rotate to start automatically when Chrome is opened
+  // tells Tab Rotate to start automatically when Chrome is opened. recommendation: true
+  
   "autoStart": <insert 'true' or 'false' here>,
   
   // defines the websites being shown, how long they are presented and the interval in which they are being reloaded
+  //to add another website copy the content from one opening curly bracket { to the closing bracket } and edit the parameters   // to your liking
+  
   "websites" : [
     {
       "url" : <insert url here>,
