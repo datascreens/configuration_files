@@ -13,6 +13,11 @@
       "duration" : 15,
       "tabReloadIntervalSeconds": 60
     },
+     {
+      "url" : "https://i.ytimg.com/vi/Y0NxL74aEyU/hqdefault.jpg",
+      "duration" : 15,
+      "tabReloadIntervalSeconds": 60
+    },
     {
       "url" : "https://sevensenders.atlassian.net/projects/INC/incidents/open",
       "duration" : 15,
