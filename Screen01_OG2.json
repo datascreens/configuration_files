@@ -9,6 +9,11 @@
       "tabReloadIntervalSeconds": 60
     },
     {
+      "url" : "https://www.sevensenders.com",
+      "duration" : 15,
+      "tabReloadIntervalSeconds": 60
+    },
+    {
       "url" : "https://insights.newrelic.com/accounts/2073911/dashboards/700351?kiosk=true",
       "duration" : 15,
       "tabReloadIntervalSeconds": 60
