@@ -4,7 +4,7 @@
   "autoStart": true,
   "websites" : [
     {
-      "url" : "https://app.klipfolio.com/?kiosk=true",
+      "url" : "https://app.klipfolio.com/published/244a5266870891de9061dbc3b8aa10b9/jans-dashboard",
       "duration" : 15,
       "tabReloadIntervalSeconds": 60
     },
