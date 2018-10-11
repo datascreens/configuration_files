@@ -1,0 +1,17 @@
+{
+  "settingsReloadIntervalMinutes": 1,
+  "fullscreen": true,
+  "autoStart": true,
+  "websites" : [
+    {
+      "url" : "https://www.sevensenders.com",
+      "duration" : 15,
+      "tabReloadIntervalSeconds": 60
+    },
+    {
+      "url" : "https://www.tesla.com/",
+      "duration" : 15,
+      "tabReloadIntervalSeconds": 60
+    }
+  ]
+}
