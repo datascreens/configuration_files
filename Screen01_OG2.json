@@ -32,6 +32,11 @@
       "url" : "https://insights.newrelic.com/accounts/2073911/dashboards/743421?kiosk=true",
       "duration" : 300,
       "tabReloadIntervalSeconds": 60
+    },
+    {
+      "url" : "https://insights.newrelic.com/accounts/2073911/dashboards/746168?kiosk=true",
+      "duration" : 300,
+      "tabReloadIntervalSeconds": 60
     }
   ]
 }
