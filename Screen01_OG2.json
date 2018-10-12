@@ -30,7 +30,7 @@
     },
     {
       "url" : "https://insights.newrelic.com/accounts/2073911/dashboards/743421?kiosk=true",
-      "duration" : 15,
+      "duration" : 300,
       "tabReloadIntervalSeconds": 60
     }
   ]
