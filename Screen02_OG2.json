@@ -9,7 +9,7 @@
       "tabReloadIntervalSeconds": 60
     },
     {
-      "url" : "https://www.tesla.com/",
+      "url" : "https://www.tesla.com/de_DE/?redirect=no",
       "duration" : 15,
       "tabReloadIntervalSeconds": 60
     }
