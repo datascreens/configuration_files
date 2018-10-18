@@ -22,6 +22,21 @@
       "url" : "https://insights.newrelic.com/accounts/2073911/dashboards/749519?kiosk=true",
       "duration" : 30,
       "tabReloadIntervalSeconds": 60
-    }
+    },
+    {
+      "url" : "https://insights.newrelic.com/accounts/2073918/dashboards/752750?kiosk=true",
+      "duration" : 30,
+      "tabReloadIntervalSeconds": 60
+    },
+    {
+      "url" : "https://insights.newrelic.com/accounts/2073918/dashboards/752741?kiosk=true",
+      "duration" : 30,
+      "tabReloadIntervalSeconds": 60
+    },
+    {
+      "url" : "https://insights.newrelic.com/accounts/2073918/dashboards/752733?kiosk=true",
+      "duration" : 30,
+      "tabReloadIntervalSeconds": 60
+    },
   ]
 }
