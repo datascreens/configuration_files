@@ -9,6 +9,11 @@
       "tabReloadIntervalSeconds": 60
     },
     {
+      "url" : "https://sevensenders.atlassian.net/secure/RapidBoard.jspa?rapidView=110&useStoredSettings=true",
+      "duration" : 15,
+      "tabReloadIntervalSeconds": 60
+    },
+    {
       "url" : "https://www.sevensenders.com",
       "duration" : 15,
       "tabReloadIntervalSeconds": 60
