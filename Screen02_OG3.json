@@ -4,7 +4,7 @@
   "autoStart": true,
   "websites" : [
     {
-      "url" : "https://sevensenders.atlassian.net/secure/RapidBoard.jspa?rapidView=65&projectKey=IMP&selectedIssue=IMP-579",
+      "url" : "https://sevensenders.atlassian.net/secure/RapidBoard.jspa?rapidView=110&useStoredSettings=true",
       "duration" : 15,
       "tabReloadIntervalSeconds": 60
     },
