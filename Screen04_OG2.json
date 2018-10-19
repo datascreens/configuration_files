@@ -1,0 +1,12 @@
+{
+  "settingsReloadIntervalMinutes": 1,
+  "fullscreen": true,
+  "autoStart": true,
+  "websites" : [
+    {
+      "url" : "https://insights.newrelic.com/accounts/2073918/dashboards/752733?kiosk=true",
+      "duration" : 30,
+      "tabReloadIntervalSeconds": 600
+    }
+  ]
+}
