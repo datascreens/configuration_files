@@ -1,0 +1,12 @@
+{
+  "settingsReloadIntervalMinutes": 1,
+  "fullscreen": true,
+  "autoStart": true,
+  "websites" : [
+    {
+      "url" : "https://sevensenders.atlassian.net/secure/RapidBoard.jspa?rapidView=110&useStoredSettings=true",
+      "duration" : 15,
+      "tabReloadIntervalSeconds": 60
+    }
+  ]
+}
