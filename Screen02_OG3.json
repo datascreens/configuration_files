@@ -4,17 +4,12 @@
   "autoStart": true,
   "websites" : [
     {
-      "url" : "https://sevensenders.atlassian.net/secure/RapidBoard.jspa?rapidView=110&useStoredSettings=true",
+      "url" : "https://sevensenders.atlassian.net/plugins/servlet/Wallboard/?dashboardId=10346",
       "duration" : 15,
       "tabReloadIntervalSeconds": 60
     },
     {
-      "url" : "https://sevensenders.atlassian.net/secure/RapidBoard.jspa?rapidView=110&useStoredSettings=true",
-      "duration" : 15,
-      "tabReloadIntervalSeconds": 60
-    },
-    {
-      "url" : "https://www.sevensenders.com",
+      "url" : "https://sevensenders.atlassian.net/plugins/servlet/Wallboard/?dashboardId=10347",
       "duration" : 15,
       "tabReloadIntervalSeconds": 60
     }
