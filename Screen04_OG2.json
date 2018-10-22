@@ -18,7 +18,7 @@
       "duration" : 30,
       "tabReloadIntervalSeconds": 1200
     },
-     {
+    {
       "url" : "https://insights.newrelic.com/accounts/2073911/dashboards/749519?kiosk=true",
       "duration" : 30,
       "tabReloadIntervalSeconds": 1200
