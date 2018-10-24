@@ -9,6 +9,11 @@
       "tabReloadIntervalSeconds": 60
     },
     {
+      "url" : "https://i.ytimg.com/vi/vufs2Y1pFeQ/maxresdefault.jpg",
+      "duration" : 30,
+      "tabReloadIntervalSeconds": 60
+    },
+    {
       "url" : "https://vignette.wikia.nocookie.net/villains/images/6/62/Big-brother-poster1.jpg/revision/latest?cb=20151204074018",
       "duration" : 15,
       "tabReloadIntervalSeconds": 60
