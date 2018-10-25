@@ -4,6 +4,36 @@
   "autoStart": true,
   "websites" : [
     {
+      "url" : "https://insights.newrelic.com/apps/accounts/2073918/sendwise/dashboards/746250?kiosk=true",
+      "duration" : 50,
+      "tabReloadIntervalSeconds": 60
+    },
+    {
+      "url" : "https://insights.newrelic.com/apps/accounts/2073918/sendwise/dashboards/746250?kiosk=true",
+      "duration" : 50,
+      "tabReloadIntervalSeconds": 60
+    },
+    {
+      "url" : "https://insights.newrelic.com/apps/accounts/2073918/sendwise/dashboards/746243?kiosk=true",
+      "duration" : 50,
+      "tabReloadIntervalSeconds": 60
+    },
+    {
+      "url" : "https://insights.newrelic.com/apps/accounts/2073918/sendwise/dashboards/746246?kiosk=true",
+      "duration" : 50,
+      "tabReloadIntervalSeconds": 60
+    },
+    {
+      "url" : "https://insights.newrelic.com/apps/accounts/2073918/sendwise/dashboards/746245?kiosk=true",
+      "duration" : 50,
+      "tabReloadIntervalSeconds": 60
+    },
+    {
+      "url" : "https://insights.newrelic.com/apps/accounts/2073918/sendwise/dashboards/746242?kiosk=true",
+      "duration" : 50,
+      "tabReloadIntervalSeconds": 60
+    },
+    {
       "url" : "https://datastudio.google.com/reporting/1Qs6jtOnS7O7NCesSITHDVj4L7VmNebxW/page/6zXD?kiosk=true",
       "duration" : 100,
       "tabReloadIntervalSeconds": 60
