@@ -9,6 +9,11 @@
       "tabReloadIntervalSeconds": 60
     },
     {
+      "url" : "https://img.fotocommunity.com/suesses-erdmaennchen-07b8412f-5831-4021-8655-98e4c775d972.jpg?height=1080",
+      "duration" : 15,
+      "tabReloadIntervalSeconds": 100
+    },
+    {
       "url" : "https://i.ytimg.com/vi/vufs2Y1pFeQ/maxresdefault.jpg",
       "duration" : 30,
       "tabReloadIntervalSeconds": 60
