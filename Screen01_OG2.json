@@ -4,38 +4,18 @@
   "autoStart": true,
   "websites" : [
     {
-      "url" : "https://app.klipfolio.com/published/244a5266870891de9061dbc3b8aa10b9/jans-dashboard",
-      "duration" : 15,
+      "url" : "https://datastudio.google.com/reporting/1Qs6jtOnS7O7NCesSITHDVj4L7VmNebxW/page/6zXD?kiosk=true",
+      "duration" : 100,
       "tabReloadIntervalSeconds": 60
     },
     {
-      "url" : "https://www.sevensenders.com",
-      "duration" : 15,
+      "url" : "https://datastudio.google.com/u/0/reporting/1Qs6jtOnS7O7NCesSITHDVj4L7VmNebxW/page/AD3a?kiosk=true",
+      "duration" : 100,
       "tabReloadIntervalSeconds": 60
     },
     {
-      "url" : "https://insights.newrelic.com/accounts/2073911/dashboards/700351?kiosk=true",
-      "duration" : 15,
-      "tabReloadIntervalSeconds": 60
-    },
-     {
-      "url" : "https://i.ytimg.com/vi/Y0NxL74aEyU/hqdefault.jpg",
-      "duration" : 15,
-      "tabReloadIntervalSeconds": 60
-    },
-    {
-      "url" : "https://sevensenders.atlassian.net/projects/INC/incidents/open",
-      "duration" : 15,
-      "tabReloadIntervalSeconds": 60
-    },
-    {
-      "url" : "https://insights.newrelic.com/accounts/2073911/dashboards/743421?kiosk=true",
-      "duration" : 300,
-      "tabReloadIntervalSeconds": 60
-    },
-    {
-      "url" : "https://insights.newrelic.com/accounts/2073911/dashboards/746168?kiosk=true",
-      "duration" : 300,
+      "url" : "https://datastudio.google.com/u/0/reporting/1Qs6jtOnS7O7NCesSITHDVj4L7VmNebxW/page/Cp2a?kiosk=true",
+      "duration" : 100,
       "tabReloadIntervalSeconds": 60
     }
   ]
