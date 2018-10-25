@@ -4,14 +4,14 @@
   "autoStart": true,
   "websites" : [
     {
-      "url" : "https://datastudio.google.com/reporting/1Qs6jtOnS7O7NCesSITHDVj4L7VmNebxW/page/6zXD?kiosk=true",
-      "duration" : 15;
-      "tabReloadIntervalSeconds": 100
+      "url" : "https://app.klipfolio.com/published/244a5266870891de9061dbc3b8aa10b9/jans-dashboard",
+      "duration" : 15,
+      "tabReloadIntervalSeconds": 60
     },
-     {
-      "url" : "https://www.sevensenders.com/",
-      "duration" : 15;
-      "tabReloadIntervalSeconds": 100
+    {
+      "url" : "https://datastudio.google.com/reporting/1Qs6jtOnS7O7NCesSITHDVj4L7VmNebxW/page/6zXD?kiosk=true",
+      "duration" : 100,
+      "tabReloadIntervalSeconds": 60
     }
   ]
 }
