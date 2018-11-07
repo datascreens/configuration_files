@@ -4,14 +4,14 @@
   "autoStart": true,
   "websites" : [
     {
-      "url" : "https://www.sevensenders.com",
-      "duration" : 15,
-      "tabReloadIntervalSeconds": 60
+      "url" : "http://www.hydroponicshighway.com/wp-content/uploads/2016/08/o-FOOD-facebook.jpg",
+      "duration" : 60,
+      "tabReloadIntervalSeconds": 6000
     },
     {
-      "url" : "https://www.tesla.com/",
-      "duration" : 15,
-      "tabReloadIntervalSeconds": 60
+      "url" : "https://giphy.com/gifs/jKaFXbKyZFja0/fullscreen",
+      "duration" : 60,
+      "tabReloadIntervalSeconds": 6000
     }
   ]
 }
