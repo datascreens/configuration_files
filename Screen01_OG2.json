@@ -17,6 +17,11 @@
       "url" : "https://datastudio.google.com/u/0/reporting/1Qs6jtOnS7O7NCesSITHDVj4L7VmNebxW/page/Cp2a?kiosk=true",
       "duration" : 100,
       "tabReloadIntervalSeconds": 60
+    },
+    {
+      "url" : "https://sevensenders.eu.looker.com/dashboards/68?kiosk=true",
+      "duration" : 100,
+      "tabReloadIntervalSeconds": 60
     }
   ]
 }
