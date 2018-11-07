@@ -1,0 +1,17 @@
+{
+  "settingsReloadIntervalMinutes": 1,
+  "fullscreen": true,
+  "autoStart": true,
+  "websites" : [
+    {
+      "url" : "https://app.klipfolio.com/published/09c3f76445ebfc1cf7f3171dbe637f1f/seven-senders-dashboard?kiosk=true",
+      "duration" : 10,
+      "tabReloadIntervalSeconds": 120
+    },
+    {
+      "url" : "https://www.sevensenders.com/",
+      "duration" : 10,
+      "tabReloadIntervalSeconds": 120
+    }
+  ]
+}
