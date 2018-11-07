@@ -1,17 +1,18 @@
+
 {
   "settingsReloadIntervalMinutes": 1,
   "fullscreen": true,
   "autoStart": true,
   "websites" : [
     {
-      "url" : "http://www.hydroponicshighway.com/wp-content/uploads/2016/08/o-FOOD-facebook.jpg",
-      "duration" : 60,
-      "tabReloadIntervalSeconds": 6000
+      "url" : "https://app.klipfolio.com/published/09c3f76445ebfc1cf7f3171dbe637f1f/seven-senders-dashboard?kiosk=true",
+      "duration" : 100,
+      "tabReloadIntervalSeconds": 120
     },
     {
-      "url" : "https://giphy.com/gifs/jKaFXbKyZFja0/fullscreen",
-      "duration" : 60,
-      "tabReloadIntervalSeconds": 6000
+      "url" : "https://www.sevensenders.com/",
+      "duration" : 100,
+      "tabReloadIntervalSeconds": 120
     }
   ]
 }
