@@ -27,6 +27,11 @@
       "url" : "https://app.peakon.com/share/Jea8ZtIB2CcmBzRxaaK8KB00EHNhq7pb",
       "duration" : 60,
       "tabReloadIntervalSeconds": 200
+    },
+    {
+      "url" : "https://infrastructure.newrelic.com/accounts/2073918/integrations/aws/accounts/9058/ses/dashboard?timeStart=1535788800000",
+      "duration" : 60,
+      "tabReloadIntervalSeconds": 200
     }
   ]
 }
