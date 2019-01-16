@@ -4,6 +4,11 @@
   "autoStart": true,
   "websites" : [
     {
+      "url" : "https://insights.newrelic.com/apps/accounts/2073918/sendwise?kiosk=true",
+      "duration" : 50,
+      "tabReloadIntervalSeconds": 60
+    },
+    {
       "url" : "https://insights.newrelic.com/apps/accounts/2073918/sendwise/dashboards/746250?kiosk=true",
       "duration" : 50,
       "tabReloadIntervalSeconds": 60
