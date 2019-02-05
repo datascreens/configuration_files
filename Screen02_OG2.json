@@ -37,6 +37,11 @@
       "url" : "https://insights.newrelic.com/apps/accounts/2073918/sendwise/dashboards/746242?kiosk=true",
       "duration" : 50,
       "tabReloadIntervalSeconds": 60
+    },
+    {
+      "url" : "https://sevensenders.atlassian.net/plugins/servlet/Wallboard/?dashboardId=10345",
+      "duration" : 50,
+      "tabReloadIntervalSeconds": 60
     }
   ]
 }
