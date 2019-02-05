@@ -32,6 +32,11 @@
       "url" : "https://app.peakon.com/share/Jea8ZtIB2CcmBzRxaaK8KB00EHNhq7pb",
       "duration" : 60,
       "tabReloadIntervalSeconds": 200
+    },
+    {
+      "url" : "https://sevensenders.atlassian.net/plugins/servlet/Wallboard/?dashboardId=10345",
+      "duration" : 50,
+      "tabReloadIntervalSeconds": 60
     }
   ]
 }
