@@ -22,6 +22,11 @@
       "url" : "https://my.pingdom.com/newchecks/checks#",
       "duration" : 180,
       "tabReloadIntervalSeconds": 600
+    },
+    {
+      "url" : "https://insights.newrelic.com/accounts/2073911/dashboards/774784?kiosk=true",
+      "duration" : 90,
+      "tabReloadIntervalSeconds": 600
     }
   ]
 }
