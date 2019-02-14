@@ -5,38 +5,43 @@
   "websites" : [
     {
       "url" : "https://datastudio.google.com/reporting/1Qs6jtOnS7O7NCesSITHDVj4L7VmNebxW/page/6zXD?kiosk=true",
-      "duration" : 100,
+      "duration" : 45,
       "tabReloadIntervalSeconds": 200
     },
     {
       "url" : "https://datastudio.google.com/u/0/reporting/1Qs6jtOnS7O7NCesSITHDVj4L7VmNebxW/page/AD3a?kiosk=true",
-      "duration" : 60,
+      "duration" : 45,
       "tabReloadIntervalSeconds": 200
     },
     {
       "url" : "https://datastudio.google.com/u/0/reporting/1Qs6jtOnS7O7NCesSITHDVj4L7VmNebxW/page/Cp2a?kiosk=true",
-      "duration" : 60,
+      "duration" : 45,
       "tabReloadIntervalSeconds": 200
     },
     {
       "url" : "https://datastudio.google.com/u/0/reporting/1Qs6jtOnS7O7NCesSITHDVj4L7VmNebxW/page/30Kf?kiosk=true",
-      "duration" : 60,
+      "duration" : 45,
       "tabReloadIntervalSeconds": 200
     },
     {
       "url" : "https://sevensenders.eu.looker.com/dashboards/68?kiosk=true",
-      "duration" : 100,
+      "duration" : 45,
       "tabReloadIntervalSeconds": 200
     },
     {
       "url" : "https://app.peakon.com/share/Jea8ZtIB2CcmBzRxaaK8KB00EHNhq7pb",
-      "duration" : 60,
+      "duration" : 45,
       "tabReloadIntervalSeconds": 200
     },
     {
       "url" : "https://sevensenders.atlassian.net/plugins/servlet/Wallboard/?dashboardId=10345",
-      "duration" : 50,
+      "duration" : 45,
       "tabReloadIntervalSeconds": 60
+    },
+     {
+      "url" : "https://datastudio.google.com/u/0/reporting/1Qs6jtOnS7O7NCesSITHDVj4L7VmNebxW/page/E5Li/edit?kiosk=true",
+      "duration" : 45,
+      "tabReloadIntervalSeconds": 200
     }
   ]
 }
