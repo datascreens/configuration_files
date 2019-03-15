@@ -33,24 +33,14 @@
       "duration" : 45,
       "tabReloadIntervalSeconds": 200
     },
-    {
-      "url" : "https://sevensenders.atlassian.net/plugins/servlet/Wallboard/?dashboardId=10345",
-      "duration" : 45,
-      "tabReloadIntervalSeconds": 60
-    },
      {
       "url" : "https://datastudio.google.com/u/0/reporting/1Qs6jtOnS7O7NCesSITHDVj4L7VmNebxW/page/E5Li/edit?kiosk=true",
       "duration" : 45,
       "tabReloadIntervalSeconds": 200
     },
     {
-      "url" : "https://docs.google.com/spreadsheets/u/1/d/1GwUykMOOAXpWOXI4C1_826-GeZTzd83iU_lo4MgxPPY/preview",
+      "url" : "https://sevensenders.eu.looker.com/dashboards/141?kiosk=true",
       "duration" : 45,
-      "tabReloadIntervalSeconds": 200
-    },
-    {
-      "url" : "https://sevensenders.atlassian.net/plugins/servlet/Wallboard/?dashboardId=10348&cyclePeriod=60000&transitionFx=none&random=false",
-      "duration" : 100,
       "tabReloadIntervalSeconds": 200
     }
   ]
