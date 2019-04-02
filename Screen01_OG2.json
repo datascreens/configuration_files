@@ -33,11 +33,6 @@
       "duration" : 45,
       "tabReloadIntervalSeconds": 200
     },
-     {
-      "url" : "https://datastudio.google.com/u/0/reporting/1Qs6jtOnS7O7NCesSITHDVj4L7VmNebxW/page/E5Li/edit?kiosk=true",
-      "duration" : 45,
-      "tabReloadIntervalSeconds": 200
-    },
     {
       "url" : "https://sevensenders.eu.looker.com/dashboards/141?kiosk=true",
       "duration" : 60,
@@ -45,7 +40,7 @@
     },
     {
       "url" : "https://docs.google.com/spreadsheets/u/1/d/1kER65mdTd7zm_u6qgYF0n80rcE9HaB6A53z-lOGAbGQ/preview",
-      "duration" : 60,
+      "duration" : 80,
       "tabReloadIntervalSeconds": 200
     }
   ]
