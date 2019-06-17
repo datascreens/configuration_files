@@ -4,17 +4,23 @@
   "autoStart": true,
   "websites" : [
     {
-      "url" : "https://insights.newrelic.com/accounts/2073911/dashboards/743421?kiosk=true",
+      "url" : "https://one.newrelic.com/launcher/dashboards.launcher#launcher=eyJ0aW1lUmFuZ2UiOnsiYmVnaW5fdGltZSI6bnVsbCwiZW5kX3RpbWUiOm51bGwsImR1cmF0aW9uIjpudWxsfX0=&pane=eyJuZXJkbGV0SWQiOiJkYXNoYm9hcmRzLmRhc2hib2FyZCIsImVudGl0eUlkIjoiTWpBM016a3hNWHhXU1ZwOFJFRlRTRUpQUVZKRWZEYzNORGM0TkEiLCJpc1RlbXBsYXRlRW1wdHkiOmZhbHNlLCJkYXJrTW9kZSI6ZmFsc2V9",
       "duration" : 180,
       "tabReloadIntervalSeconds": 600
     },
     {
-      "url" : "https://insights.newrelic.com/accounts/2073911/dashboards/750731?kiosk=true",
+      "url" : "https://one.newrelic.com/launcher/dashboards.launcher#launcher=eyJ0aW1lUmFuZ2UiOnsiYmVnaW5fdGltZSI6bnVsbCwiZW5kX3RpbWUiOm51bGwsImR1cmF0aW9uIjpudWxsfX0=&pane=eyJuZXJkbGV0SWQiOiJkYXNoYm9hcmRzLmRhc2hib2FyZCIsImVudGl0eUlkIjoiTWpBM016a3hNWHhXU1ZwOFJFRlRTRUpQUVZKRWZEYzBOakUyT0EiLCJpc1RlbXBsYXRlRW1wdHkiOmZhbHNlfQ==",
       "duration" : 180,
       "tabReloadIntervalSeconds": 600
     },
     {
-      "url" : "https://insights.newrelic.com/accounts/2073911/dashboards/746168?kiosk=true",
+      "url" : "https://one.newrelic.com/launcher/dashboards.launcher#launcher=eyJ0aW1lUmFuZ2UiOnsiYmVnaW5fdGltZSI6bnVsbCwiZW5kX3RpbWUiOm51bGwsImR1cmF0aW9uIjpudWxsfX0=&pane=eyJuZXJkbGV0SWQiOiJkYXNoYm9hcmRzLmRhc2hib2FyZCIsImVudGl0eUlkIjoiTWpBM016a3hNWHhXU1ZwOFJFRlRTRUpQUVZKRWZEYzBPVFV4T1EiLCJpc1RlbXBsYXRlRW1wdHkiOmZhbHNlfQ==",
+      "duration" : 180,
+      "tabReloadIntervalSeconds": 600
+    },
+    
+    {
+      "url" : "https://one.newrelic.com/launcher/dashboards.launcher#launcher=eyJ0aW1lUmFuZ2UiOnsiYmVnaW5fdGltZSI6bnVsbCwiZW5kX3RpbWUiOm51bGwsImR1cmF0aW9uIjpudWxsfX0=&pane=eyJuZXJkbGV0SWQiOiJkYXNoYm9hcmRzLmRhc2hib2FyZCIsImVudGl0eUlkIjoiTWpBM016a3hNWHhXU1ZwOFJFRlRTRUpQUVZKRWZEYzFNRGN6TVEiLCJpc1RlbXBsYXRlRW1wdHkiOmZhbHNlfQ==",
       "duration" : 180,
       "tabReloadIntervalSeconds": 600
     },
@@ -24,7 +30,7 @@
       "tabReloadIntervalSeconds": 600
     },
     {
-      "url" : "https://insights.newrelic.com/accounts/2073911/dashboards/774784?kiosk=true",
+      "url" : "https://one.newrelic.com/launcher/dashboards.launcher#launcher=eyJ0aW1lUmFuZ2UiOnsiYmVnaW5fdGltZSI6bnVsbCwiZW5kX3RpbWUiOm51bGwsImR1cmF0aW9uIjpudWxsfX0=&pane=eyJuZXJkbGV0SWQiOiJkYXNoYm9hcmRzLmRhc2hib2FyZCIsImVudGl0eUlkIjoiTWpBM016a3hNWHhXU1ZwOFJFRlRTRUpQUVZKRWZEYzNORGM0TkEiLCJpc1RlbXBsYXRlRW1wdHkiOmZhbHNlLCJkYXJrTW9kZSI6ZmFsc2V9",
       "duration" : 90,
       "tabReloadIntervalSeconds": 600
     }
