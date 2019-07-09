@@ -47,6 +47,11 @@
       "url" : "https://docs.google.com/spreadsheets/u/1/d/1GwUykMOOAXpWOXI4C1_826-GeZTzd83iU_lo4MgxPPY/preview",
       "duration" : 45,
       "tabReloadIntervalSeconds": 200
+    },
+      {
+      "url" : "https://i.pinimg.com/originals/cd/f9/5a/cdf95ae400bf4b308a6dbab6bd79298a.jpg",
+      "duration" : 200,
+      "tabReloadIntervalSeconds": 200
     }
   ]
 }
