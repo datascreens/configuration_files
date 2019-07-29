@@ -4,49 +4,9 @@
   "autoStart": true,
   "websites" : [
     {
-      "url" : "https://insights.newrelic.com/apps/accounts/2073918/sendwise?kiosk=true",
+      "url" : "https://insights.newrelic.com/accounts/2073918/dashboards/752767",
       "duration" : 50,
       "tabReloadIntervalSeconds": 60
-    },
-    {
-      "url" : "https://insights.newrelic.com/apps/accounts/2073918/sendwise/dashboards/746250?kiosk=true",
-      "duration" : 50,
-      "tabReloadIntervalSeconds": 60
-    },
-    {
-      "url" : "https://insights.newrelic.com/apps/accounts/2073918/sendwise/dashboards/746250?kiosk=true",
-      "duration" : 50,
-      "tabReloadIntervalSeconds": 60
-    },
-    {
-      "url" : "https://insights.newrelic.com/apps/accounts/2073918/sendwise/dashboards/746243?kiosk=true",
-      "duration" : 50,
-      "tabReloadIntervalSeconds": 60
-    },
-    {
-      "url" : "https://insights.newrelic.com/apps/accounts/2073918/sendwise/dashboards/746246?kiosk=true",
-      "duration" : 50,
-      "tabReloadIntervalSeconds": 60
-    },
-    {
-      "url" : "https://insights.newrelic.com/apps/accounts/2073918/sendwise/dashboards/746245?kiosk=true",
-      "duration" : 50,
-      "tabReloadIntervalSeconds": 60
-    },
-    {
-      "url" : "https://insights.newrelic.com/apps/accounts/2073918/sendwise/dashboards/746242?kiosk=true",
-      "duration" : 50,
-      "tabReloadIntervalSeconds": 60
-    },
-    {
-      "url" : "https://sevensenders.atlassian.net/plugins/servlet/Wallboard/?dashboardId=10345",
-      "duration" : 50,
-      "tabReloadIntervalSeconds": 60
-    },
-      {
-      "url" : "https://docs.google.com/spreadsheets/u/1/d/1GwUykMOOAXpWOXI4C1_826-GeZTzd83iU_lo4MgxPPY/preview",
-      "duration" : 45,
-      "tabReloadIntervalSeconds": 200
     }
   ]
 }
