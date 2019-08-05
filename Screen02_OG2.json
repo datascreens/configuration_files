@@ -4,20 +4,24 @@
   "autoStart": true,
   "websites" : [
     {
+      "url" : "https://insights.newrelic.com/accounts/2073918/dashboards/952338?kiosk=true",
+      "duration" : 90,
+      "tabReloadIntervalSeconds": 90
+    },        
+    {
       "url" : "https://insights.newrelic.com/accounts/2073918/dashboards/752767?kiosk=true",
-      "duration" : 180,
+      "duration" : 90,
       "tabReloadIntervalSeconds": 90
     },
     {
       "url" : "https://insights.newrelic.com/apps/accounts/2073918/sendwise/dashboards/746241?kiosk=true",
-      "duration" : 180,
+      "duration" : 90,
       "tabReloadIntervalSeconds": 90
     },
     {
       "url" : "https://insights.newrelic.com/accounts/2073918/dashboards/752767?kiosk=true",
-      "duration" : 180,
+      "duration" : 90,
       "tabReloadIntervalSeconds": 90
-    },
-    
+    }
   ]
 }
