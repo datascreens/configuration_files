@@ -5,7 +5,7 @@
   "websites" : [
     {
       "url" : "https://insights.newrelic.com/accounts/2073918/dashboards/952338?kiosk=true",
-      "duration" : 90,
+      "duration" : 180,
       "tabReloadIntervalSeconds": 90
     },        
     {
