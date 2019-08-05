@@ -4,7 +4,7 @@
   "autoStart": true,
   "websites" : [
     {
-      "url" : "https://insights.newrelic.com/accounts/2073918/dashboards/752767",
+      "url" : "https://insights.newrelic.com/accounts/2073918/dashboards/752767?kiosk=true",
       "duration" : 50,
       "tabReloadIntervalSeconds": 60
     }
