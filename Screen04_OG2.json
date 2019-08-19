@@ -34,7 +34,7 @@
       "tabReloadIntervalSeconds": 600
     },
     {
-      "url" : "https://insights.newrelic.com/accounts/2073918/dashboards/964286",
+      "url" : "https://insights.newrelic.com/accounts/2073918/dashboards/964286?kiosk=true",
       "duration": 90,
       "tabReloadIntervalSeconds": 600
     }
