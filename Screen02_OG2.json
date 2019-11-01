@@ -1,31 +1,9 @@
 {
-  "settingsReloadIntervalMinutes": 1,
   "fullscreen": true,
   "autoStart": true,
   "websites" : [
     {
-      "url" : "https://insights.newrelic.com/accounts/2073918/dashboards/952338?kiosk=true",
-      "duration" : 180,
-      "tabReloadIntervalSeconds": 90
-    },        
-    {
-      "url" : "https://insights.newrelic.com/accounts/2073918/dashboards/752767?kiosk=true",
-      "duration" : 90,
-      "tabReloadIntervalSeconds": 90
-    },
-    {
-      "url" : "https://insights.newrelic.com/apps/accounts/2073918/sendwise/dashboards/746241?kiosk=true",
-      "duration" : 90,
-      "tabReloadIntervalSeconds": 90
-    },
-    {
-      "url" : "https://insights.newrelic.com/accounts/2073918/dashboards/752767?kiosk=true",
-      "duration" : 90,
-      "tabReloadIntervalSeconds": 90
-    },
-    {
-      "url": "https://search-kinesis-elasti-g1tpbb90nd98-xck2ub7jr7ut7lhvcqweanowoy.eu-west-1.es.amazonaws.com/_plugin/kibana/goto/f7a2179525be768f49c81522ec1e84c8",
-      "duration": 120
+      "url": "https://search-kinesis-elasti-g1tpbb90nd98-xck2ub7jr7ut7lhvcqweanowoy.eu-west-1.es.amazonaws.com/_plugin/kibana/goto/f7a2179525be768f49c81522ec1e84c8"
     }
   ]
 }
