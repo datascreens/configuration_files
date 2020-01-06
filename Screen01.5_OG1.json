@@ -1,0 +1,12 @@
+{
+  "settingsReloadIntervalMinutes": 1,
+  "fullscreen": true,
+  "autoStart": true,
+  "websites" : [
+    {
+      "url" : "https://insights.newrelic.com/apps/accounts/2073918/sendwise/dashboards/746243?kiosk=true",
+      "duration" : 600,
+      "tabReloadIntervalSeconds": 600
+    }
+  ]
+}
